@@ -1,1 +1,1 @@
-# java-glowing-waffle
+![java-glowing-waffle.jpg](assets%2Fjava-glowing-waffle.jpg)
